@@ -50,5 +50,3 @@ Make sure you have the following software installed on your system:
 ## License
 
 This project is licensed under the [MIT License](https://chat.openai.com/c/LICENSE).
-
-Feel free to customize the README file as per your project's specific requirements.
